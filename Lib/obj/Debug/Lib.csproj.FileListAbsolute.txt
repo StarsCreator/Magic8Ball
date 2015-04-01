@@ -1,0 +1,4 @@
+C:\Users\ШаталовАА\Documents\Visual Studio 2013\Projects\MagicBall\Lib\bin\Debug\Lib.dll
+C:\Users\ШаталовАА\Documents\Visual Studio 2013\Projects\MagicBall\Lib\bin\Debug\Lib.pdb
+C:\Users\ШаталовАА\Documents\Visual Studio 2013\Projects\MagicBall\Lib\obj\Debug\Lib.dll
+C:\Users\ШаталовАА\Documents\Visual Studio 2013\Projects\MagicBall\Lib\obj\Debug\Lib.pdb

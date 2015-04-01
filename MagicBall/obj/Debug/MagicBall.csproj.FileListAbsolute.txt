@@ -1,0 +1,15 @@
+C:\Users\ШаталовАА\Documents\Visual Studio 2013\Projects\MagicBall\MagicBall\bin\Debug\MagicBall.exe.config
+C:\Users\ШаталовАА\Documents\Visual Studio 2013\Projects\MagicBall\MagicBall\bin\Debug\MagicBall.exe
+C:\Users\ШаталовАА\Documents\Visual Studio 2013\Projects\MagicBall\MagicBall\bin\Debug\MagicBall.pdb
+C:\Users\ШаталовАА\Documents\Visual Studio 2013\Projects\MagicBall\MagicBall\obj\Debug\MagicBall.csprojResolveAssemblyReference.cache
+C:\Users\ШаталовАА\Documents\Visual Studio 2013\Projects\MagicBall\MagicBall\obj\Debug\MainWindow.baml
+C:\Users\ШаталовАА\Documents\Visual Studio 2013\Projects\MagicBall\MagicBall\obj\Debug\MainWindow.g.cs
+C:\Users\ШаталовАА\Documents\Visual Studio 2013\Projects\MagicBall\MagicBall\obj\Debug\App.g.cs
+C:\Users\ШаталовАА\Documents\Visual Studio 2013\Projects\MagicBall\MagicBall\obj\Debug\MagicBall_MarkupCompile.cache
+C:\Users\ШаталовАА\Documents\Visual Studio 2013\Projects\MagicBall\MagicBall\obj\Debug\MagicBall.g.resources
+C:\Users\ШаталовАА\Documents\Visual Studio 2013\Projects\MagicBall\MagicBall\obj\Debug\MagicBall.Properties.Resources.resources
+C:\Users\ШаталовАА\Documents\Visual Studio 2013\Projects\MagicBall\MagicBall\obj\Debug\MagicBall.csproj.GenerateResource.Cache
+C:\Users\ШаталовАА\Documents\Visual Studio 2013\Projects\MagicBall\MagicBall\obj\Debug\MagicBall.exe
+C:\Users\ШаталовАА\Documents\Visual Studio 2013\Projects\MagicBall\MagicBall\obj\Debug\MagicBall.pdb
+C:\Users\ШаталовАА\Documents\Visual Studio 2013\Projects\MagicBall\MagicBall\bin\Debug\Lib.dll
+C:\Users\ШаталовАА\Documents\Visual Studio 2013\Projects\MagicBall\MagicBall\bin\Debug\Lib.pdb
